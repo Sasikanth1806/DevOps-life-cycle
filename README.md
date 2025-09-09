@@ -1,1 +1,1 @@
-# DevOps-life-cycle
+# student-portal-demo
